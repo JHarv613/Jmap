@@ -25,7 +25,6 @@ External packages
 
 
 # Clone the repository
-git clone https://github.com/yourusername/jmap.git
 cd jmap
 
 # Run the installer (no sudo needed)
